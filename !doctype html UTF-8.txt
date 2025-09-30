@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Test Page</title>
+  </head>
+  <body>
+    <h1>Hello! Ye website chal rahi hai ✅</h1>
+    <p>Aapne sahi tarike se save kar liya hai.</p>
+  </body>
+</html>
